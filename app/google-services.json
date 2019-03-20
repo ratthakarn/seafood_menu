@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421989612305",
+    "firebase_url": "https://seafood-champion.firebaseio.com",
+    "project_id": "seafood-champion",
+    "storage_bucket": "seafood-champion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421989612305:android:504cd7ffd0802d6a",
+        "android_client_info": {
+          "package_name": "rathakarn.th.co.gkrgroup.seafoodchampion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421989612305-st4pu36tj254ufv4tisfcnbf5cos7eip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rathakarn.th.co.gkrgroup.seafoodchampion",
+            "certificate_hash": "3bee71f0f9558c693209d4b9de09fbf477e5bd79"
+          }
+        },
+        {
+          "client_id": "421989612305-1b49peh22r7p69k6pec7g9eiiemo9i44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdKnfrlP4pZee5tsVVeqkHeo2grT-FaWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421989612305-1b49peh22r7p69k6pec7g9eiiemo9i44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
